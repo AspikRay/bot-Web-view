@@ -26,7 +26,7 @@ cd <папка_с_ботом>
 pip install -r requirements.txt
 ```
 
-3. Создайте файл `config.py`:
+3. Откройте файл `config.py`:
 ```python
 BOT_TOKEN = "ВАШ_ТОКЕН_БОТА"
 WEBAPP_URL = "https://ваш_сайт_с_магазином"
