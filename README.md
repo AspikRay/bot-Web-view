@@ -60,6 +60,3 @@ requirements.txt    # Список зависимостей
 
 ---
 
-## Лицензия
-
-MIT License
